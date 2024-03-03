@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Siddharth Bhaskar
-- 👀 Learning Application Development Using Flutter
+- 👀 Learning App Development Using Flutter
