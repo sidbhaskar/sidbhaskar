@@ -8,7 +8,7 @@
   <a href="mailto:sidbhaskar1111@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/sidbhaskar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
