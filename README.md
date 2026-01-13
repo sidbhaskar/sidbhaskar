@@ -48,7 +48,7 @@ Here are the tools, languages, and frameworks I use to bring ideas to life:
 | :--- | :--- | :--- |
 | **🏥 MediCare System** | `Spring Boot` `Kafka` `gRPC` `Docker` | • Microservices architecture handling **200+ concurrent sessions**.<br>• Event streaming via **Kafka** & security via **JWT**. |
 | **🏠 Horizon IoT App** | `Flutter` `Firebase` `IoT` | • Smart home control with **99.5% uptime**.<br>• Custom voice assistant & real-time monitoring. |
-| **🛒 RGS Grocery App** | `Flutter` `Node.js` `BLOC` | • Led end-to-end development for a client.<br>• Optimized API calls by **50%** using BLOC state management. |
+| **🛒 RGS Grocery App** | `Flutter` `RestAPIs` `BLOC` | • Led end-to-end development for a client.<br>• Optimized API calls by **50%** using BLOC state management. |
 
 ---
 
