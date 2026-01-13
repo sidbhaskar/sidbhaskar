@@ -19,7 +19,7 @@
 
 I'm a final-year student with a passion for building systems that scale and apps that feel magic. Whether it's architecting **Microservices with Spring Boot** or crafting pixel-perfect UI in **Flutter**, I love solving complex problems. 
 
-* 🌱 I’m currently exploring **Spring AI** and **Gen AI**.
+* 🌱 I’m currently exploring **Spring Boot**.
 * 🔭 I recently built a **Smart Home Automation System** integrated with IoT.
 * 🏆 **Finalist** at IIITM Hacksagon '25 & Top 25 at SIH '24.
 
